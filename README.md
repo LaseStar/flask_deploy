@@ -1,1 +1,3 @@
-# flask_deploy
+# flaskBlog
+
+Educational project
